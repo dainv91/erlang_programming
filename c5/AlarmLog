@@ -1,0 +1,3 @@
+1563,420861,941000,raise_alarm,10,cabinet_open
+1563,420894,566000,clear_alarm,10,cabinet_open
+1563,420911,3000,event,156,link_up
